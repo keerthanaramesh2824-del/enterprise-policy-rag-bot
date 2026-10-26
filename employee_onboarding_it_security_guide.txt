@@ -1,0 +1,39 @@
+NORTHSTAR WORKS — EMPLOYEE ONBOARDING AND IT SECURITY GUIDE
+Fictional training document | Version 1.0 | Effective 1 October 2026
+Document owner: People Operations and IT Security | Guide ID: OPS-002
+
+1. PURPOSE AND SCOPE
+This guide explains onboarding tasks and baseline IT security practices for new employees at fictional Northstar Works. It is a training example and does not represent an actual organization.
+
+2. BEFORE THE FIRST DAY
+People Operations sends the new employee a welcome email and a checklist at least three working days before their start date. The employee should complete identity and payroll forms using the secure onboarding portal. Do not email identity documents to personal email addresses.
+
+3. FIRST-DAY CHECKLIST
+On day one, employees attend a 30-minute People Operations orientation, receive a company laptop where required, sign the acceptable-use acknowledgement, and verify their contact details. The manager introduces the team and reviews the first-week schedule.
+
+4. ACCOUNT SETUP
+IT sends a one-time activation link to the employee's verified contact address. Employees must activate their company account within 24 hours of receiving the link. Multi-factor authentication (MFA) is mandatory for company email, the HR portal, and remote access. If an activation link expires, contact it-support@northstar.example.
+
+5. PASSWORD RULES
+Passwords must contain at least 14 characters. Use a unique password for every company account and an approved password manager. Never share passwords or MFA codes, even with a manager or IT support. IT will never ask for your password.
+
+6. DEVICE SECURITY
+Company laptops must have full-disk encryption, screen lock after five minutes of inactivity, and automatic security updates enabled. Employees must not disable endpoint protection or install unapproved software. Report a lost device immediately.
+
+7. DATA HANDLING
+Classify information as Public, Internal, Confidential, or Restricted. Confidential and Restricted files must be stored only in approved company systems. Do not upload company documents to personal cloud storage or public AI tools. Share data only with people who need it for their work.
+
+8. PHISHING AND INCIDENT REPORTING
+Do not open suspicious attachments or enter credentials on unexpected login pages. Use the 'Report phishing' option in company email or contact security@northstar.example. Suspected account compromise, lost devices, and accidental data disclosure must be reported to IT Security within one hour of discovery.
+
+9. REMOTE ACCESS
+Remote access to internal systems requires the approved VPN and MFA. Public Wi-Fi may be used only through the approved VPN. Employees should not access Restricted data from shared or public computers.
+
+10. FIRST-WEEK TRAINING
+Within the first five working days, employees complete information-security awareness training, privacy training, and an introduction to the HR portal. Managers confirm completion in the onboarding checklist.
+
+11. SUPPORT AND ESCALATION
+For account setup and devices, contact it-support@northstar.example. For security incidents, contact security@northstar.example. For onboarding paperwork or leave-policy questions, contact peopleops@northstar.example.
+
+12. DOCUMENT CONTROL
+Joint owners: People Operations and IT Security. Review cycle: every six months. Next review: April 2027.
